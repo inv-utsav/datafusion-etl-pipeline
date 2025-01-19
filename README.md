@@ -8,3 +8,5 @@ Extracting employee data
 - Merging First name and Last name
 - Masking sensitive data (salary)
 - Encoding password using MD5 hash
+
+(https://github.com/inv-utsav/datafusion-etl-pipeline/blob/main/EmployeeReport.pdf)
