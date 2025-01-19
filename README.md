@@ -9,4 +9,4 @@ Extracting employee data
 - Masking sensitive data (salary)
 - Encoding password using MD5 hash
 
-![report](https://github.com/inv-utsav/datafusion-etl-pipeline/blob/main/EmployeeReport.pdf)
+![report](https://github.com/inv-utsav/datafusion-etl-pipeline/blob/main/EmployeeReport-1.png)
